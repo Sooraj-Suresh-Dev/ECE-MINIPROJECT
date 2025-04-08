@@ -35,7 +35,7 @@ This project is an **Automatic Vehicle Ventilation System** designed to monitor 
 
 The Arduino code reads sensor values, compares them against safe thresholds, and drives the servo motors accordingly. It also updates the LCD with gas readings.
 
-> You can find the full code in the ![Arduino_Code](ArduinoFile.ino) file.
+> You can find the full code in the [Arduino_Code](ArduinoFile/ArduinoFile.ino) file.
 
 ## Installation
 
@@ -58,5 +58,8 @@ This project is open-source and available under the MIT License.
 ---
 
 **Developed by SOORAJ SURESH**
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-e4405f?logo=instagram)](https://www.instagram.com/vision._.kid/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/soorajsuresh2004/) 
+
+📫 How to reach me:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vision._.kid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soorajsuresh2004/)
