@@ -29,13 +29,13 @@ This project is an **Automatic Vehicle Ventilation System** designed to monitor 
 
 ## Circuit Diagram
 
-*(Add a circuit diagram image or link here if available)*
+![Circuit Diagram ](circuitDiagram.PNG)
 
 ## Code
 
 The Arduino code reads sensor values, compares them against safe thresholds, and drives the servo motors accordingly. It also updates the LCD with gas readings.
 
-> You can find the full code in the [Arduino_Code](./Arduino_Code.ino) file.
+> You can find the full code in the [Arduino_Code](ArduinoFile.ino) file.
 
 ## Installation
 
